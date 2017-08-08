@@ -1,6 +1,6 @@
 import { ProjectPage } from './app.po';
 
-describe('project App', () => {
+describe('project App', function() {
   let page: ProjectPage;
 
   beforeEach(() => {
